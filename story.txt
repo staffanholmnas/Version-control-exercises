@@ -5,4 +5,4 @@ later on. I'm using the unix based console Git Bash to modify my
 GitHub repository. It is important to learn Git version control even 
 though it doesn't feel quite intuitive right now. I wonder how much
 text is required, perhaps I will copy and paste more text here using 
-notepad. Nope, this is enough... The end!
+notepad. Nope, that would be cheating, this is enough... The end!
