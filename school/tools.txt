@@ -1,4 +1,4 @@
 Goodbye World!
 Hello everyone!
-Greetings from my computer!
+Greetings from my computer and GitHub
 Added one line at the end. Pow!
