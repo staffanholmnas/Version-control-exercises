@@ -1,4 +1,4 @@
-Hello!
+Hi, fellow geeks!
 
 This is me typing a long text for an exercise that needs to be modified
 later on. I'm using the unix based console Git Bash to modify my
