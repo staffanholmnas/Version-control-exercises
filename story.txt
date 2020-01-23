@@ -1,7 +1,8 @@
 Hello!
 
 This is me typing a long text for an exercise that needs to be modified
-later on. It is important to learn git even though it doesn't feel 
-really intuitive right now. I wonder how much text is required, perhaps 
-I will copy and paste more text here using notepad. Nope, this
-is enough... The end!
+later on. I'm using the unix based console Git Bash to modify my
+GitHub repository. It is important to learn Git version control even 
+though it doesn't feel quite intuitive right now. I wonder how much
+text is required, perhaps I will copy and paste more text here using 
+notepad. Nope, this is enough... The end!
