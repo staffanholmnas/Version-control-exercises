@@ -5,4 +5,3 @@ later on. It is important to learn git even though it doesn't feel
 really intuitive right now. I wonder how much text is required, perhaps 
 I will copy and paste more text here using notepad. Nope, this
 is enough... The end!
-Not the end! I will edit this in bash and push it back here with this line removed!
