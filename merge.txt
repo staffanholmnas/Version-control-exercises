@@ -1,1 +1,5 @@
+
 Hello there! Making a merge conflict happen from my local repo. Exercise 11.
+Resolving it now! 
+
+
