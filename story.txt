@@ -4,4 +4,4 @@ This is me typing a long text for an exercise that needs to be modified
 later on. It is important to learn git even though it doesn't feel 
 really intuitive right now. I wonder how much text is required, perhaps 
 I will copy and paste more text here using notepad. Nope, this
-is enough.
+is enough... The end!

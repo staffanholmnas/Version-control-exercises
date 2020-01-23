@@ -1,3 +1,4 @@
+soup
 pens
 cabonated water
 milk
@@ -8,13 +9,10 @@ eggs
 minced meat
 mars bar
 pillows
-monitor
 plates
 butter
 bread
 ham
-jello
-peanuts
 apples
 oranges
 bananas
